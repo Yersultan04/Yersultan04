@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer** — LLM · RAG · NLP
 
-I build production ML systems that ship, not demos. 5 years across EdTech, e-commerce, and
+I build production ML systems that ship, not demos. 3 years across e-commerce, and
 maritime safety — content moderation at scale, recommender systems, and LLM-powered automation.
 M.Sc. Data Science @ University of Milan.
 
@@ -25,6 +25,6 @@ stack = {
 - **nlp-content-moderation** — multilingual toxic/low-quality classifier (BERT)
 - **rag-document-qa** — SBERT + FAISS retrieval with grounded answers
 
-📫 Open to remote ML/AI roles · 🌍 Milan, Italy (UTC+1)
+📫 Open to offline/remote ML/AI roles · 🌍 Almaty, Kazakhstan 
 
 <!-- Github stats badges можно добавить: github-readme-stats -->
